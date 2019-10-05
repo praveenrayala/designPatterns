@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.pra.java.designpattern.stratergy;
+package com.pra.java.behaiour.stratergy;
 
 /**
  * @author praveen rayala
