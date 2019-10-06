@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.pra.java.behaiour.stratergy;
+package com.pra.java.behavior.stratergy;
 
 /**
  * @author praveen rayala

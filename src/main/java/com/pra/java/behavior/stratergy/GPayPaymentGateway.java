@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.pra.java.behaiour.stratergy;
+package com.pra.java.behavior.stratergy;
 
 import java.util.concurrent.ThreadLocalRandom;
 

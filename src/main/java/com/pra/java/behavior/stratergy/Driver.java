@@ -1,4 +1,4 @@
-package com.pra.java.behaiour.stratergy;
+package com.pra.java.behavior.stratergy;
 
 public class Driver {
 
